@@ -1,5 +1,8 @@
 基于STM32F103C8T6 + 0.96 寸 I2C OLED的视频播放项目。
 
+<video src="oled.mp4" width="640" controls></video>
+
+
 ## 功能说明
 
 - 硬件：STM32F103C8T6 + 0.96" I2C OLED（SSD1306）
