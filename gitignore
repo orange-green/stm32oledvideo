@@ -1,0 +1,23 @@
+# Keil MDK
+Objects/
+Listings/
+*.uvguix.*
+*.axf
+*.hex
+*.bin
+*.elf
+*.o
+*.d
+*.crf
+*.dep
+*.lnp
+*.sct
+*.htm
+
+# STM32CubeMX
+.STM32CubeMX/
+*.ioc.bak
+
+# 其他
+.DS_Store
+*.log
