@@ -1,6 +1,6 @@
 基于STM32F103C8T6 + 0.96 寸 I2C OLED的视频播放项目。
 
-<video src="oled.mp4" width="640" controls></video>
+https://github.com/orange-green/stm32oledvideo/issues/1#issue-6205152886/oled.mp4
 
 
 ## 功能说明
